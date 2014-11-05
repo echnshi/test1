@@ -1,2 +1,3 @@
 hello +stage +after stage,modify ag.
 +diff
+auto -a for 'git commit'
