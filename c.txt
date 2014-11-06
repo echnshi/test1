@@ -1,1 +1,2 @@
 add c.txt amend
+add after 'git push'
